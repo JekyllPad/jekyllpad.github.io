@@ -5,6 +5,8 @@ date: '2023-10-31T06:05:14.724Z'
 tags:
   - blogging
   - beginners
+  - jekyll
+  - cms
 ---
 # A [Jekyll Content Editor for GitHub Pages](https://www.jekyllpad.com/), Blogs and Websites
 
