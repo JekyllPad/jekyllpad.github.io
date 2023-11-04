@@ -10,9 +10,9 @@ tags:
 ---
 # A [Jekyll Content Editor for GitHub Pages](https://www.jekyllpad.com/), Blogs and Websites
 
-## What is JekyllPad.com?
+## What is **_JekyllPad.com_**?
 
-JekyllPad.com is a powerful online content editor that makes it easy to create and manage Jekyll blogs and websites, as well as GitHub Pages. It integrates directly with your GitHub account, allowing you to modify files directly in your git repository. JekyllPad.com also offers a variety of features to help you create and publish high-quality content, including:
+JekyllPad.com is a powerful online content editor that makes it easy to create and manage Jekyll blogs and websites, as well as GitHub Pages. It integrates directly with your GitHub account, allowing you to modify files directly in your git repository. [JekyllPad.com](google.com) also offers a variety of features to help you create and publish high-quality content, including:
 
 *   Tag management: Easily organize your content into tags and categories to make it easier for visitors to find what they're looking for.
     
