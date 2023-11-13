@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JekyllPad| Jekyll Content Editor for GitHub Pages
-date: '2023-10-31T06:05:14.724Z'
+date: '2023-10-31'
 tags:
   - blogging
   - beginners
