@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JekyllPad| Online Content Editor for GitHub Pages and Jekyll
+title: '''JekyllPad| Online Content Editor for GitHub Pages and Jekyll'''
 date: '2023-10-31'
 tags:
   - blogging
@@ -55,6 +55,8 @@ There are many benefits to using JekyllPad.com for your Jekyll blog or website. 
 *   **Integrated with GitHub:** JekyllPad.com integrates directly with your GitHub account, allowing you to modify files directly in your git repository.
     
 *   **Affordable:** JekyllPad.com is a very affordable solution for creating and managing Jekyll blogs and websites.
+    
+*   [![test video](https://i.ytimg.com/vi/OQ7zxWY32Yo/default.jpg)](https://www.youtube.com/watch?v=OQ7zxWY32Yo&feature=youtu.be)
     
 
 ## Conclusion
